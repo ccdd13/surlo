@@ -8,7 +8,7 @@
 
 you will get
 
-- goto [`https://git.io/JY6ME#linkid`](https://git.io/JY6ME)
+- [`https://git.io/JY6DL#linkid`](https://git.io/JY6DL)
 
 # License
 
